@@ -1,0 +1,17 @@
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\EjemploNetCore.deps.json
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\EjemploNetCore.runtimeconfig.json
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\EjemploNetCore.runtimeconfig.dev.json
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\EjemploNetCore.dll
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\EjemploNetCore.pdb
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\obj\Debug\netcoreapp2.2\EjemploNetCore.csprojAssemblyReference.cache
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\obj\Debug\netcoreapp2.2\EjemploNetCore.csproj.CoreCompileInputs.cache
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\obj\Debug\netcoreapp2.2\EjemploNetCore.AssemblyInfoInputs.cache
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\obj\Debug\netcoreapp2.2\EjemploNetCore.AssemblyInfo.cs
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\obj\Debug\netcoreapp2.2\EjemploNetCore.dll
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\obj\Debug\netcoreapp2.2\EjemploNetCore.pdb
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\EjemploProcesadorDatos.dll
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\EjemploProcesadorDatos.pdb
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\obj\Debug\netcoreapp2.2\EjemploNetCore.csproj.CopyComplete
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\Variables.json
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\Variables.Production.json
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploNetCore\bin\Debug\netcoreapp2.2\Variables.Testing.json

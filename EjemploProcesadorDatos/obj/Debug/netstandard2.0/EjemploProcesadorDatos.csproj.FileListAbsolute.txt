@@ -1,0 +1,9 @@
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\bin\Debug\netstandard2.0\EjemploProcesadorDatos.deps.json
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\bin\Debug\netstandard2.0\EjemploProcesadorDatos.dll
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\bin\Debug\netstandard2.0\EjemploProcesadorDatos.pdb
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\obj\Debug\netstandard2.0\EjemploProcesadorDatos.csprojAssemblyReference.cache
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\obj\Debug\netstandard2.0\EjemploProcesadorDatos.csproj.CoreCompileInputs.cache
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\obj\Debug\netstandard2.0\EjemploProcesadorDatos.AssemblyInfoInputs.cache
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\obj\Debug\netstandard2.0\EjemploProcesadorDatos.AssemblyInfo.cs
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\obj\Debug\netstandard2.0\EjemploProcesadorDatos.dll
+C:\Users\felipe_quintana\Documents\Visual Studio 2017\Projects\EjemploNetCore\EjemploProcesadorDatos\obj\Debug\netstandard2.0\EjemploProcesadorDatos.pdb
